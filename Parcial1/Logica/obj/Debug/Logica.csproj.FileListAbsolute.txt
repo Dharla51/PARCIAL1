@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\parcial_p3_corte1\PARCIAL1\Parcial1\Logica\bin\Debug\Logica.dll
+C:\Users\Usuario\Desktop\parcial_p3_corte1\PARCIAL1\Parcial1\Logica\bin\Debug\Logica.pdb
+C:\Users\Usuario\Desktop\parcial_p3_corte1\PARCIAL1\Parcial1\Logica\bin\Debug\Datos.dll
+C:\Users\Usuario\Desktop\parcial_p3_corte1\PARCIAL1\Parcial1\Logica\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\parcial_p3_corte1\PARCIAL1\Parcial1\Logica\bin\Debug\Datos.pdb
+C:\Users\Usuario\Desktop\parcial_p3_corte1\PARCIAL1\Parcial1\Logica\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\parcial_p3_corte1\PARCIAL1\Parcial1\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\parcial_p3_corte1\PARCIAL1\Parcial1\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\parcial_p3_corte1\PARCIAL1\Parcial1\Logica\obj\Debug\Logica.csproj.Up2Date
+C:\Users\Usuario\Desktop\parcial_p3_corte1\PARCIAL1\Parcial1\Logica\obj\Debug\Logica.dll
+C:\Users\Usuario\Desktop\parcial_p3_corte1\PARCIAL1\Parcial1\Logica\obj\Debug\Logica.pdb
